@@ -1,6 +1,8 @@
 This is a demo project to start implementing OpenGL applications
 using freeglut. 
 
+To use, simply open the file in xCode and build + run.
+
 Simple painting application with minor bugs.
 
 Window Resize issue:
